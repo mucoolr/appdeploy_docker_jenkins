@@ -1,2 +1,2 @@
 # appdeploy_docker_jenkins
-   testing ghprb plugin 4
+   testing ghprb plugin 45
